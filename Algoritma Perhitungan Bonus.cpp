@@ -48,7 +48,7 @@ int main()
 
     cout<<"Karyawan "<<nama<<", menjualkan rumah sebagai berikut : "<<endl;
     cout<<"Tipe rumah : "<<rumah<<endl;
-    cout<<"Jumlah : "<<rumah<<endl;
+    cout<<"Jumlah : "<<jumlah<<endl;
     cout<<"Bonus yang diterima : "<<total<<endl;
     return 0;
 }
